@@ -1,0 +1,27 @@
+h1 {
+    font-size: 30px;
+}
+
+.a {
+    background-color: blue;
+}
+
+.fit-picture{
+    width: 50px;
+}
+
+*{
+    font-size: 10px;
+}
+ .foo{
+     color: blue;
+ }
+ .fooo{
+     color: blueviolet;
+ }
+ .foooo{
+     color: cyan;
+ }
+body {
+    margin-bottom:1000px;
+}
